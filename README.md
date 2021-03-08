@@ -9,7 +9,7 @@ List of features (as i said, this is a small and simple tool ;-)):
 
 ## install
 
-Get the current areca API arclib from [ftp://ftp.areca.com.tw/RaidCards/AP_Drivers/API](ftp://ftp.areca.com.tw/RaidCards/AP_Drivers/API/Arclib_Build350_20150519.zip)
+Get the current areca API arclib from [ftp://ftp.areca.com.tw/RaidCards/AP_Drivers/API](ftp://ftp.areca.com.tw/RaidCards/AP_Drivers/API/Arclib_Build350_20150519.zip) or [https://areca.starline.de/API/](https://areca.starline.de/API/Arclib_Build350_20150519.zip)
 
 ### compile
 ```
